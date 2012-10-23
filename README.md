@@ -1,7 +1,9 @@
-Esper-Quick-Start
+Esper Quick Start
 =================
 
 Esper Quick Start Application
+
+See http://esper.codehaus.org/tutorials/tutorial/quickstart.html
 
 
 Build
