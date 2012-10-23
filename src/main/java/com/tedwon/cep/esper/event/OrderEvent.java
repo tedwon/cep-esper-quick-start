@@ -2,6 +2,10 @@ package com.tedwon.cep.esper.event;
 
 /**
  * Order Event Class.
+ * <p/>See http://esper.codehaus.org/tutorials/tutorial/quickstart.html
+ *
+ * @author <a href=mailto:tedwon@kthcorp.com">Ted Won</a>
+ * @version 1.0
  */
 public class OrderEvent {
 
