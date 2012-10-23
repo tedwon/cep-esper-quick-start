@@ -37,8 +37,14 @@ public class EsperQuickStartMainClass {
         epService.getEPRuntime().sendEvent(event);
     }
 
+    /**
+     * Here are Biz codes.
+     */
     public class MyListener implements UpdateListener {
+
         public void update(EventBean[] newEvents, EventBean[] oldEvents) {
+
+            // Here are Biz codes
             EventBean event = newEvents[0];
             System.out.println("avg=" + event.get("avg(price)"));
             System.out.println("mymax=" + event.get("mymax"));
@@ -46,8 +52,8 @@ public class EsperQuickStartMainClass {
     }
 
     public static void main(String[] args) {
+
         EsperQuickStartMainClass test = new EsperQuickStartMainClass();
         test.run();
-
     }
 }
