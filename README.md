@@ -3,15 +3,15 @@ Esper Quick Start
 
 Esper Quick Start Application
 
-See http://esper.codehaus.org/tutorials/tutorial/quickstart.html
+See http://www.espertech.com/esper/quickstart.php
 
 
 Prerequisites for Building
 -------------------
 
-Java JDK 1.6
+Java JDK +1.6
 
-Maven 2.2 or higher (http://maven.apache.org/)
+Maven +2.2 or higher (http://maven.apache.org/)
 
 
 
